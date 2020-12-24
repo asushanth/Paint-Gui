@@ -11,7 +11,7 @@ Time spent: **2** hours spent in total
 * [x] Change line width 
 * [x] Pick colors or gradient options
 * [x] Choose shapes such as: Square, Oval, Line
-* [x} Choose Fill or Outline
+* [x] Choose Fill or Outline
 
 I had some difficulty with figuring out how to commit and push my project to github, but with more practice I was able to figure it out.
 
